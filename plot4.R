@@ -1,4 +1,5 @@
-## load libraries needed for the analysis. Set your working directory accordingly.  
+## load libraries needed for the analysis. 
+## Set your working directory accordingly.  
 
 library(reshape2)
 library(lubridate)
@@ -7,7 +8,7 @@ library(gridExtra)
 
 
 
-## Download and unzip file to working directory
+## Download and unzip file to working directory 
 
 ZIPDATA <- "https://d396qusza40orc.cloudfront.net/
         exdata%2Fdata%2Fhousehold_power_consumption.zip"
